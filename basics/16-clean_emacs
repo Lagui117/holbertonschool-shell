@@ -1,2 +1,2 @@
 #!/bin/bash
-rm _r * ~
+rm -r *~
